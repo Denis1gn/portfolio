@@ -1,2 +1,2 @@
 # portfolio
-My researches &amp; training courses
+Hello, my name is Denis Ignatov and I am financial analyst and I enjoy working with data. Here are my researches &amp; training courses. 
