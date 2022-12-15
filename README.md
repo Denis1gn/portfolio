@@ -3,4 +3,4 @@ Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with
 <p>Here are my researches &amp; projects for training courses<p>
 
 <p>Researches and presentations includes:<p>
-
+</div>Master's degree research presentation which covers unicorn companies growth<div>
