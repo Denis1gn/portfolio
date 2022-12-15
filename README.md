@@ -5,7 +5,7 @@ Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with
   
   
 <p>SQL & Python folder includes:<p>
-<p>* SQL courses from Yandex which I adapted to Python, I looked at unit-economy metrics such as LTV, ARPU, ROI and Cohort analysis for Retention Rate and Churn rate<<p>
+<p>* SQL courses from Yandex which I adapted to Python, I looked at unit-economy metrics such as LTV, ARPU, ROI and Cohort analysis for Retention Rate and Churn rate<p>
 <p>* MOEX API connection for stocks analysis<p>
 
   
