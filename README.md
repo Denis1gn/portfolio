@@ -11,8 +11,10 @@ Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with
   
  
 <p>Researches and presentations includes:<p>
-</div>* Master's degree research presentation which covers unicorn companies growth<div>
-</div>* Presentation of edibles emerging market analysis and project of shadow kitchen for delivery project<div>
+*Master's degree research presentation which covers unicorn companies growth
+</div>
+<div>
+* Presentation of edibles emerging market analysis and project of shadow kitchen for delivery project<div>
   
   
   
