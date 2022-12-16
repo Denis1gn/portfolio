@@ -1,5 +1,5 @@
 # portfolio
-Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with data to provide insights for growth of financial results. 
+Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with data to provide insights for growth of financial results and forecasting. 
 <p>Here are my researches &amp; projects for training courses<p>
 
 <p>Financial model:<p>
