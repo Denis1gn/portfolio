@@ -8,7 +8,7 @@ Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with
  
 ## Researches and presentations folder includes:
 <p>* Master's degree research presentation which covers unicorn companies growth and influence of hype on stocks<p>
-<p>* Presentation of edibles emerging market analysis and project of ghost kitchen for edibles delivery for VC fund<p>
+<p>* Presentation for VC fund of edibles emerging market analysis and project of ghost kitchen for delivery<p>
   
   
 ## SQL & Python folder includes:
