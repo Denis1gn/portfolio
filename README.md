@@ -2,11 +2,11 @@
 Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with data to provide insights for growth of financial results. 
 <p>Here are my researches &amp; projects for training courses<p>
 
-## Financial model
+## Financial model folder includes:
 <p>* This is basic training financial model I later reworked to craft a financial model for industrial project I worked on<p>
   
  
-## Researches and presentations includes:
+## Researches and presentations folder includes:
 <p>* Master's degree research presentation which covers unicorn companies growth and influence of hype on stocks<p>
 <p>* Presentation of edibles emerging market analysis and project of ghost kitchen for edibles delivery for VC fund<p>
   
