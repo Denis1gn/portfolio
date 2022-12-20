@@ -3,7 +3,7 @@ Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with
 <p>Here are my researches &amp; projects for training courses<p>
 
 ## Financial model folder includes:
-<p>* This is basic training financial model I later reworked to craft a financial model for industrial project I worked on<p>
+<p>* Financial model that I later reworked to craft a financial model for industrial project I worked on<p>
   
  
 ## Researches and presentations folder includes:
