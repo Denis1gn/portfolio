@@ -1,6 +1,6 @@
 ## Portfolio
 Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with data to provide insights for growth of financial results. 
-<p>Here are my researches &amp; projects for training courses<p>
+<p>Here are my researches &amp; projects for training<p>
 
 ## Financial model folder includes:
 <p>* Financial model that I later reworked to craft a financial model for industrial project I worked on<p>
