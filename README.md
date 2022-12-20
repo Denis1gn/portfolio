@@ -14,7 +14,7 @@ Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with
 ## SQL & Python folder includes:
 <p>* Cohort analysis of unit economy metrics based on Yandex Practicum SQL dump<p>
 <p>* MOEX API connection for stocks analysis<p>
-<p>*
+
 
   
   
