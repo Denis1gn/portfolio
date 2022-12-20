@@ -1,4 +1,4 @@
-# portfolio
+## portfolio
 Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with data to provide insights for growth of financial results and forecasting. 
 <p>Here are my researches &amp; projects for training courses<p>
 
@@ -12,8 +12,9 @@ Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with
   
   
 <p>SQL & Python folder includes:<p>
-<p>* SQL courses from Yandex which I adapted to Python, I looked at unit-economy metrics such as LTV, ARPU, ROI and Cohort analysis for Retention Rate and Churn rate<p>
+<p>* Cohort analysis of unit economy metrics based on Yandex Practicum SQL dump<p>
 <p>* MOEX API connection for stocks analysis<p>
+<p>*
 
   
   
