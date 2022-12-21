@@ -7,7 +7,7 @@ Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with
   
  
 ## Researches and presentations folder includes:
-<p>- Master's degree research presentation which covers unicorn companies growth and influence of hype on stocks<p>
+<p>- Master's degree research which covers unicorn companies growth and influence of hype on stocks (presentation + text in Russian)<p>
 <p>- Presentation for VC fund with analysis of edibles emerging market and presentation of ghost kitchen project for delivery<p>
   
   
