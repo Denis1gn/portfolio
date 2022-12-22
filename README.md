@@ -15,8 +15,8 @@ Hello, my name is Denis Ignatov and I enjoy working with data. I love applicatio
 <p>- Cohort analysis of unit economy metrics (with statistical tests) based on Yandex Practicum SQL dump<p>
 <p>- MOEX API connection for stocks analysis<p>
 <p>- Forecasting revenue based on Yandex Practicum SQL dump (WIP) <p>
-<p>- Cluster analysis of customers based on Yandex Practicum SQL dump<p>
-
+<p>- Customer segmentation using k-means cluster analysis based on Yandex Practicum SQL dump<p>
+<p>- Multiple linear regression based on Yandex Practicum SQL dump<p>
 
   
   
