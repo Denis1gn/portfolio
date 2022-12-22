@@ -1,5 +1,5 @@
 ## Portfolio
-Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with data as well. I love application of statistics and math to provide insights for growth of financial results, solving business issues. 
+Hello, my name is Denis Ignatov, I am financial analyst and I enjoy working with data as well. I love application of statistics and math to provide insights for growth of financial results, solving business issues. I am fan of innovations and rational developement of society, dedicated my academic research to that problem.
 <p>I have recently switched from R to Python so I am trying to fill up my portfolio with projects. Some of them are still WIP or being reworked as I learn more libraries and syntax<p>
 
 ## Financial model folder includes:
