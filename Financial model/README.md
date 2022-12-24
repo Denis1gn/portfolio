@@ -16,28 +16,28 @@
 
 ## Calculations.
 ## Revenue:
-<p>- Production volume 
-<p>- Sales & prices
+<p>- Production volume <p>
+<p>- Sales & prices<p>
 ## OpEx:
-<p>- Materials, salary and other operating expenses
+<p>- Materials, salary and other operating expenses<p>
 ## SGA:
-<P>- Selling expenses, General & Administrative, Other income and expenses
+<P>- Selling expenses, General & Administrative, Other income and expenses<p>
 ## Net Working Capital
-<p>- Financials: Revenue, OpEX, SG&A
-<p>- Current assets
-<p>- Current liabilities
+<p>- Financials: Revenue, OpEX, SG&A<p>
+<p>- Current assets<p>
+<p>- Current liabilities<p>
 ## Taxes
-<p>- Social taxes on operational, selling and administrative personnel
-<p>- Property tax
-<p>- VAT
-<p>- Profit tax
-<p>- Tax on EBIT
+<p>- Social taxes on operational, selling and administrative personnel<p>
+<p>- Property tax<p>
+<p>- VAT<p>
+<p>- Profit tax<p>
+<p>- Tax on EBIT<p>
 ## FA
-<p> - Existing & new FA 
+<p> - Existing & new FA <p>
 ## Debt 
-<p> - ST debt, LT debt, New debt
+<p> - ST debt, LT debt, New debt<p>
 ## Results 
-<p> Calculated BS, P&L, CF
-<p> DCF: NOPAT, FCFF, EV
-<p> Dashboard with sensetivity analysis
+<p> Calculated BS, P&L, CF<p>
+<p> DCF: NOPAT, FCFF, EV<p>
+<p> Dashboard with sensetivity analysis<p>
 
