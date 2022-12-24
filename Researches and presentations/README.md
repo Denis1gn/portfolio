@@ -9,4 +9,4 @@
 <p>- Software companies are more vulnerable to underpricing during IPO<p>
 <p>- Cascade of available information works for such companies, as more news about unicorn companies appear pre-IPO better performance of the stocks after IPO<p>
 <p>- Did you know Snoop Dogg has own Venture Capital fund? He invests into technologies that are connected to cannabis market. From researches, to delivery systems.<p>
-<p>- Interesting to know, that different cannabis has different terpents since it grows everywhere around the globe and managed to borrow the qualities of other plants. <p>
+<p>- Interesting to know, that different strays of cannabis have different terpents since plant grows around the globe and managed to borrow the qualities of other plants. <p>
