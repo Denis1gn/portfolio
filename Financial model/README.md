@@ -14,7 +14,7 @@
 <p>- FA&CAPEX Historical cost of FA, carrying amount, depreciation rates, Construction In Progress, CAPEX<p>
 <p>- Short-term debt, long-term debt, interest rates<p>
 
-## Calculations
+## Calculations.
 ## Revenue:
 <p>- Production volume 
 <p>- Sales & prices
