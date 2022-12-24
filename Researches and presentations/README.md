@@ -8,7 +8,7 @@
 <p>- Larger the number of investment rounds and demonstration of positive operative cash flow (but no profit) increases underpricing as it is a signal for investors that there is a working model of tech monetization and there is an opportunity for growth<p>
 <p>- Software companies are more vulnerable to underpricing during IPO<p>
 <p>- Cascade of available information improves stock performance after IPO, marketing is important as it helps for unprofitable companies to keep the hype among investors and prevent stocks from plummeting<p>
-<p>- On average hype reaches peak on the third month <p>
+<p>- On average hype reaches peak on the third month after IPO, since most of early investors have their shares locked for 6 months after IPO, closer to that  <p>
 <p>- Did you know Snoop Dogg has own Venture Capital fund? His fund invests in technologies that are connected to cannabis market. From researches and lab equipment to delivery systems.<p>
-<p>- Interesting to know, that different strays of cannabis have different terpents since plant grows around the globe and managed to borrow qualities of other plants. You can find cannabis with peach terpents or coniferous terpenes. It is interesting to know, that different terpens also associated with different medical effect.<p>
-<p>- Canada was one of the first countries who allowed usage of cannabis enriched oil in food industry<p>
+<p>- Interesting to know, that different strays of cannabis have different terpents since plant grows around the globe and managed to borrow qualities of other plants. You can find cannabis with peach terpents or coniferous terpenes. Different terpens are also associated with different medical effect.<p>
+<p>- Canada was one of the first countries who allowed usage of cannabis enriched oil in food industry, so you can try eating chicken with cherry terpenes from olive oil which is mixed with cannabis<p>
