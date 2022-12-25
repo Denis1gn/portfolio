@@ -12,5 +12,7 @@
 <p>- Did you know Snoop Dogg has own Venture Capital fund? His fund invests in technologies that are connected to cannabis market. From researches and lab equipment to delivery systems.<p>
 <p>- Interesting to know, that different strays of cannabis have different terpents since plant grows around the globe and managed to borrow qualities of other plants. You can find cannabis with peach terpents or coniferous terpenes. Different terpens are also associated with different medical effect.<p>
 <p>- Canada was one of the first countries who allowed usage of cannabis enriched oil in food industry, so you can try eating chicken with cherry terpenes from olive oil which is mixed with cannabis<p>
+  
+## Other project I have worked on:
 <p>- Did you know that 40% of all corn produced in USA is used for production of ethanol ?<p>
 <p>- Ethanol is used in gasoline, imagine how much food we waste every year? There are still issues finding effective technology in production of ethanol from wastes.<p>
