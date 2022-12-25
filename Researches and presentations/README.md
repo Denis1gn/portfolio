@@ -4,7 +4,7 @@
 <p>- Quantity of such companies accelerated during 2012-2019 because of VC funds eager to catch own unicorn in portfolio as well as in result of rapid small investments among large number of tech startups<p>
 <p>- Money losing unicorn companies raise more funding during IPO today than profitable companies from Dotcom era used to<p>
 <p>- Underpricing is a situation when a company undervalues own stocks for IPO while stock prices skyrocket on the first traiding day, it's good for investors but it is bad for companies since they lose money they could have received from listing. However, underpicing is still better than overpricing. <p>
-<p>- Greater valuation of the company pre-IPO with demonstration of profitability results in less underpricing. Greater valuation means more investors research the company and more risks are unveiled. <p>
+<p>- Greater estimated valuation of the company with demonstration of profitability results in less underpricing. Greater valuation results in more investors researching the company and more risks are being unveiled. <p>
 <p>- Large number of funding rounds and demonstration of positive operative cash flow (but no profit) increases underpricing as it is a signal for investors that there is a working monetization model and there is an opportunity for growth<p>
 <p>- Software companies are more vulnerable to underpricing during IPO<p>
 <p>- Cascade of available information improves stock performance after IPO as it helps for unprofitable companies to keep the hype among investors and prevent stocks from plummeting<p>
