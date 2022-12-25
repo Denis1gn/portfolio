@@ -5,7 +5,7 @@ With Best regards to PWC/EY team for helping out with modeling.
 <p>- Balance Sheet<p>
 <p>- P&L <p>
 <p>- Cash-Flow statement<p>
-## Assumptions: 
+##Assumptions: 
 <p>- Macroeconomic assumptions: FX, PPI, CPI<p>
 <p>- Tax assumptions: Social insurance fund contributions, Pension fund, Accident insurance, Medical insurance fund, VAT, Profit tax, Property tax<p>
 <p>- Valuation assumption (discount factor): WACC, LTGR<p>
@@ -17,28 +17,28 @@ With Best regards to PWC/EY team for helping out with modeling.
 
 ## Calculations.
 
-## Revenue:
+##Revenue:
 <p>- Production volume <p>
 <p>- Sales & prices<p>
 ## OpEx:
 <p>- Materials, salary and other operating expenses<p>
-## SGA:
+##SGA:
 <P>- Selling expenses, General & Administrative, Other income and expenses<p>
-## Net Working Capital
+##Net Working Capital
 <p>- Financials: Revenue, OpEX, SG&A<p>
 <p>- Current assets<p>
 <p>- Current liabilities<p>
-## Taxes
+##Taxes
 <p>- Social taxes on operational, selling and administrative personnel<p>
 <p>- Property tax<p>
 <p>- VAT<p>
 <p>- Profit tax<p>
 <p>- Tax on EBIT<p>
-## FA
+##FA
 <p> - Existing & new FA <p>
 ## Debt 
 <p> - ST debt, LT debt, New debt<p>
-## Results 
+##Results 
 <p> Calculated BS, P&L, CF<p>
 <p> DCF: NOPAT, FCFF, EV<p>
 <p> Dashboard with sensetivity analysis<p>
