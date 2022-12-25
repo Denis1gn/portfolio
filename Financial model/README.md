@@ -1,4 +1,5 @@
-## Financial model based on IFRS logic.
+## Financial model
+With Best regards to PWC/EY team for helping out with modeling. 
 
 ## Historical data and assumptions: 
 <p>- Balance Sheet<p>
@@ -15,6 +16,7 @@
 <p>- Short-term debt, long-term debt, interest rates<p>
 
 ## Calculations.
+
 ## Revenue:
 <p>- Production volume <p>
 <p>- Sales & prices<p>
@@ -41,4 +43,4 @@
 <p> DCF: NOPAT, FCFF, EV<p>
 <p> Dashboard with sensetivity analysis<p>
 
-With regards to Pricewaterhouse coopers team for working with MSU
+
