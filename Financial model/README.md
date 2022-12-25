@@ -20,7 +20,7 @@ With Best regards to PWC/EY team for helping out with modeling.
 ##Revenue:
 <p>- Production volume <p>
 <p>- Sales & prices<p>
-## OpEx:
+##OpEx:
 <p>- Materials, salary and other operating expenses<p>
 ##SGA:
 <P>- Selling expenses, General & Administrative, Other income and expenses<p>
@@ -35,12 +35,12 @@ With Best regards to PWC/EY team for helping out with modeling.
 <p>- Profit tax<p>
 <p>- Tax on EBIT<p>
 ##FA
-<p> - Existing & new FA <p>
-## Debt 
-<p> - ST debt, LT debt, New debt<p>
+<p>- Existing & new FA <p>
+##Debt 
+<p>- ST debt, LT debt, New debt<p>
 ##Results 
-<p> Calculated BS, P&L, CF<p>
-<p> DCF: NOPAT, FCFF, EV<p>
-<p> Dashboard with sensetivity analysis<p>
+<p>- Calculated BS, P&L, CF<p>
+<p>- DCF: NOPAT, FCFF, EV<p>
+<p>- Dashboard with sensetivity analysis<p>
 
 
