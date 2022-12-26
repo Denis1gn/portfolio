@@ -21,10 +21,11 @@
 
 <p>- Using event study method, we can measure hype after IPO by looking at abnormal returns. This method uses mathematical appproach to forecasting and comparing forecast to actual stocks returns. I used CAAR (Cumulative Average Abnormal Returns) for grouped Unicorns depending on amount of news articles published before IPO.<p>
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/CAAR.png)
-<p>- As we can see, on average hype starts to dissapear by 3rd month. 
+
+<p>- As we can see, on average hype reaches peak on the 3rd month. <p>
   
   
-<p>- CAR (Cumulative abnormal returns) for individual observations was used to check distributions of abnormal returns between groups during the peak of hype
+<p>- CAR (Cumulative abnormal returns) for individual observations was used to check distributions of abnormal returns between groups during the peak of hype<p>
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/distributions.png)
   
 <p>- In result as we can see, hype can be both good and bad for unicorn companies. As they lose money because of underpricing, their stocks performance is also guarded by the hype. 
