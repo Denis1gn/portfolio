@@ -9,6 +9,10 @@
   
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/Quantity.png)
 
+<p> For my research on Unicorns I investigated 75 unicorn companies who have listed on NASDAQ and NYSE
+
+![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/observations.png)
+
 ## Hype: good and bad
 
 <p>- Hype affects valuation and can be measured on the first trading day by looking at underpricing and in the first months after IPO by looking at stock performance <p>
