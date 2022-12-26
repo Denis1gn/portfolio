@@ -1,5 +1,5 @@
 ## Did you know?
-<p>- Unicorn companies are technological companies that reached valuation of $1b before entering stock market and receiving market valuation <p>
+<p>- Unicorn companies are technological companies that have reached valuation of $1b before entering stock market and receiving market valuation <p>
 <p>- Unicorn companies are created through strategy of blitz-scaling, which focuses on growth over efficency<p>
 <p>- Quantity of such companies accelerated during last decade because of VC funds eager to catch own unicorn in portfolio as well as in result of rapid small investments among large number of tech startups<p>
   
