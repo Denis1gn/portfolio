@@ -1,5 +1,5 @@
 ## Unicorn companies
-<p>- Unicorn companies are technological companies that have reached valuation of $1b from Venture Capital funds before entering stock market and receiving market valuation <p>
+<p>- Unicorn companies are technological companies that had reached valuation of $1b from Venture Capital funds before entering stock market and received market valuation <p>
 <p>- Unicorn companies are created through strategy of blitz-scaling, which focuses on growth over efficency<p>
 <p>- Quantity of such companies accelerated during last decade because of VC funds eager to catch own unicorn in portfolio as well as in result of rapid small investments among large number of tech startups<p>
   
@@ -11,7 +11,7 @@
 
 ## Hype: good and bad
 
-<p>- Hype can be measured on the first trading day and in the first months after IPO
+<p>- How hype affects valuation and can be measured on the first trading day and in the first months after IPO <p>
   
 <p>- Underpricing is a situation when a company undervalues own stocks before IPO while stock prices skyrocket on the first traiding day, it's good for investors but it is bad for Unicorns since they lose money they could have received from listing. Underpricing can be measured with MAIR - Market Adjusted Initial Return. There are factors that increase or decrease underpricing for Unicorn companies, which I uncovered using Multiple Linear Regression: <p>
 
