@@ -1,5 +1,5 @@
 ## Portfolio
-Hello, my name is Denis Ignatov and I enjoy working with data. I love application of statistics and math to provide insights for growth of projects and financial results, solving business issues. I am fan of innovations and believe in rational developement, dedicated my academic research to that problem, investing myself to this approach. I have experience of working for the government, in largest oil company, helped with small industrial business and helped scientist with startup.
+Hello, my name is Denis Ignatov and I enjoy working with data. I love application of statistics and math to provide insights for growth of projects and financial results, solving business issues. I am fan of innovations and believe in rational developement, dedicated my academic research to VC and questions of behavioral economics, rational development. Investing myself in different projects: I have experience of working for the government, in the largest Russian Oil company, helped with small industrial business and assisted scientist with pushing startup from paper to real business.
 
 ## Financial model folder includes:
 <p>- Financial model that I have reworked for industrial project<p>
