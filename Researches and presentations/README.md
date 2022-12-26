@@ -26,7 +26,7 @@
 
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/software.png)
 
-<p>- Using event study method, we can measure hype after IPO by looking at abnormal returns. This method uses mathematical/financial appproach to forecasting stock prices, then forecasting results are compared to actual stocks returns. I used CAAR (Cumulative Average Abnormal Returns) for grouped Unicorns depending on the amount of news articles covered them before IPO date<p>
+<p>- Using event study method, we can measure hype after IPO by looking at abnormal returns. This method uses mathematical/financial appproach to forecasting stock prices, then forecasting results are compared to actual stocks returns. I used CAAR (Cumulative Average Abnormal Returns) for grouped Unicorns depending on the amount of news articles covered them before IPO date. On all ocasions t-statistic demonstrates difference to 0<p>
 
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/CAAR.png)
 
