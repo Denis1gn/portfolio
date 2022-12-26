@@ -14,7 +14,7 @@
 
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/observations.png)
 
-## Hype: good and bad
+## Hype: positive and negative influence
 
 <p>- Hype affects valuation and can be measured on the first trading day by looking at underpricing and in the first months after IPO by looking at stock performance <p>
   
