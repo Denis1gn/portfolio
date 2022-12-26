@@ -1,9 +1,9 @@
 ## Did you know?
 <p>- Unicorn companies are technological companies that reached valuation of $1b before entering stock market and receiving market valuation <p>
 <p>- Unicorn companies are created through strategy of blitz-scaling, which focuses on growth over efficency<p>
-<p>- Quantity of such companies accelerated during 2012-2019 because of VC funds eager to catch own unicorn in portfolio as well as in result of rapid small investments among large number of tech startups<p>
+<p>- Quantity of such companies accelerated during last decade because of VC funds eager to catch own unicorn in portfolio as well as in result of rapid small investments among large number of tech startups<p>
   
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/Quantity.png)
+![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/Number%20of%20companies.png)
   
 <p>- Money losing unicorn companies raise more funding during IPO today than profitable companies from Dotcom era used to<p>
   
