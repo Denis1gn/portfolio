@@ -6,7 +6,7 @@ Hello, my name is Denis Ignatov and I enjoy working with data. I love applicatio
   
  
 ## Researches and presentations folder includes:
-<p>- Master's degree research which covers unprofitable unicorn companies growth and influence of hype on stocks performance of such companies. With usage of event study, multiple linear regression and statistical tests(presentation + text in Russian, brief explanation in README)<p>
+<p>- Master's degree research which covers unprofitable unicorn companies growth and influence of hype on stocks performance of such companies. With usage of event study, multiple linear regression and statistical tests(presentation + text in Russian, data, brief explanation in README)<p>
   
   
 ## SQL & Python folder includes:
@@ -14,7 +14,7 @@ Hello, my name is Denis Ignatov and I enjoy working with data. I love applicatio
 <p>- MOEX API connection for stocks analysis<p>
 <p>- Time-series forecasting based on Yandex Practicum SQL dump (WIP) <p>
 <p>- Customer segmentation using k-means cluster analysis based on Yandex Practicum SQL dump<p>
-<p>- Multiple linear regression based on Yandex Practicum SQL dump<p>
+
 
   
   
