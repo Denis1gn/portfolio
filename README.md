@@ -6,8 +6,7 @@ Hello, my name is Denis Ignatov and I enjoy working with data. I love applicatio
   
  
 ## Researches and presentations folder includes:
-<p>- Master's degree research which covers unprofitable unicorn companies growth and influence of hype on stocks performance of such companies. With usage of event study, multiple linear regression and statistical tests(presentation + text in Russian)<p>
-<p>- Presentation for VC fund with analysis of edibles emerging market and presentation of ghost kitchen project for delivery<p>
+<p>- Master's degree research which covers unprofitable unicorn companies growth and influence of hype on stocks performance of such companies. With usage of event study, multiple linear regression and statistical tests(presentation + text in Russian, brief explanation in README)<p>
   
   
 ## SQL & Python folder includes:
