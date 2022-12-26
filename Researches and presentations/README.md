@@ -29,7 +29,7 @@
   
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/distributions.png)
   
-<p>- Using Kruskal–Wallis statistical test, I have proofed that companies with low hype had lowest CAR<p>
+<p>- Using Kruskal–Wallis statistical test, I have proofed that companies with low hype had different CAR compared to hyped companies<p>
   
 <p>- In result as we can see, hype can be both good and bad for unicorn companies. As they lose money because of underpricing, their stocks performance is also guarded by the hype. <p>
 
