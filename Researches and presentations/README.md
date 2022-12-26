@@ -25,7 +25,7 @@
 
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/CAAR.png)
 
-<p>- As we can see, on average hype reaches peak on the 3rd month. I have compared distribution of CAR (Cumulative abnormal returns) between groups during the peak<p>
+<p>- As we can see, on average hype reaches peak on the 3rd month. It is worth mentioning that too much hype also decreases abnormal returns as hype can be both negative and positive. I have compared distribution of CAR (Cumulative abnormal returns) between groups during the peak<p>
   
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/distributions.png)
   
