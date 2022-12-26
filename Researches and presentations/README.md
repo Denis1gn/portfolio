@@ -1,4 +1,4 @@
-## Influence of hype on Unicorn companies 
+## Influence of hype on Unicorn companies IPO performance and their valuation 
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/1BU.png)
 <p>- Unicorn companies are technological companies that had reached valuation of $1b from Venture Capital funds before gaining such valuation on the market<p>
 <p>- Unicorn companies are created through strategy of blitz-scaling, which focuses on growth over efficency<p>
