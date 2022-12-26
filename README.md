@@ -2,7 +2,7 @@
 Hello, my name is Denis Ignatov and I enjoy working with data. I love application of statistics and math to provide insights for growth of projects and financial results, solving business issues. I am fan of innovations and believe in rational developement, dedicated my academic research to that problem, investing myself to this approach. I have experience of working for the government, in largest oil company, helped with small industrial business and helped scientist with startup.
 
 ## Financial model folder includes:
-<p>- Financial model that I later reworked for industrial project I worked on<p>
+<p>- Financial model that I have reworked for industrial project<p>
   
  
 ## Researches and presentations folder includes:
