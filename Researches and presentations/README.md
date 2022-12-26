@@ -11,9 +11,9 @@
 
 ## Hype: good and bad
 
-<p>- Hype affects valuation and can be measured on the first trading day and in the first months after IPO <p>
+<p>- Hype affects valuation and can be measured on the first trading day by looking at underpricing and in the first months after IPO by looking at stock performance <p>
   
-<p>- Underpricing is a situation when a company undervalues own stocks before IPO while stock prices skyrocket on the first traiding day, it's good for investors but it is bad for Unicorns since they lose money they could have received from listing. Underpricing can be measured with MAIR - Market Adjusted Initial Return. There are factors that increase or decrease underpricing for Unicorn companies, which I uncovered using Multiple Linear Regression: <p>
+<p>- Underpricing is a situation when a company undervalues own stocks before IPO while stock prices skyrocket on the first traiding day, it's good for investors but it is bad for Unicorns since they lose money they could have received if proposed higher price for their stocks. Underpricing can be measured with MAIR - Market Adjusted Initial Return. There are factors that increase or decrease underpricing for Unicorn companies, which I uncovered using Multiple Linear Regression: <p>
 
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visualization/regressionunderpricing.png)
 
