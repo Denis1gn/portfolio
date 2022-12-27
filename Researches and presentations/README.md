@@ -1,6 +1,6 @@
 ## Influence of hype on unicorn companies IPO performance and valuation 
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/1BU.png)
-<p>- Unicorn companies are technological companies that had reached valuation of $1b from Venture Capital funds before gaining such valuation on the market: Uber, Facebook etc<p>
+<p>- Unicorn companies are innovative companies that had reached valuation of $1b from Venture Capital funds before gaining such valuation on the market: Uber, Facebook etc<p>
 <p>- Unicorn companies are created with the strategy of blitz-scaling, which focuses on growth over efficency<p>
 <p>- Quantity of such companies accelerated during the last decade because of VC funds eager to catch own unicorn in portfolio as well as in the result of rapid small investments among large number of tech startups<p>
   
@@ -20,12 +20,12 @@
   
 <p>- Underpricing is a situation when a company undervalues own stocks before IPO, meanwhile prices skyrocket on the first traiding day. It is good for investors but it is bad for Unicorns since they lose money they could have received if proposed higher initial price. Underpricing can be measured with MAIR - Market Adjusted Initial Return. 
 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/MAIR.png)
+![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/MAIRU.png)
 
 
 <p>-There are factors that increase or decrease underpricing for Unicorn companies, which I have uncovered using Multiple Linear Regression: <p>
 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/regressionunderpricing.png)
+![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/regressionu.png)
 
 <p>- Using Mann-Whitney test I also found out that software companies are more vulnerable to underpricing<p>
 
