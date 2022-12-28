@@ -16,6 +16,7 @@ Hello, my name is Denis Ignatov and I enjoy working with data. I love applicatio
 <p>- Customer segmentation using k-means cluster analysis <p>
 <p>- Multiple linear regression for Unicorn companies underpricing factors<p>
 <p>- MOEX API connection for stocks analysis<p>
+<p>- QIWI product analyst SQL test <p>
 
 
 
