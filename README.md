@@ -8,7 +8,7 @@ Hello, my name is Denis Ignatov and I enjoy working with data. I love applicatio
 <p>- Financial model that I have reworked for industrial project<p>
   
 ## Researches and presentations folder includes:
-<p>- Master's thesis which covers unprofitable unicorn companies growth and influence of hype on stocks performance of such companies. With usage of event study, multiple linear regression and statistical tests(brief explanation in English in README, presentation + text in Russian, data)<p>
+<p>- Master's thesis which covers unprofitable unicorn companies growth and influence of hype on their stocks performance. With usage of event study, multiple linear regression and statistical tests(brief explanation in English in README, presentation + text in Russian, data)<p>
   
 ## SQL & Python folder includes:
 <p>- Cohort analysis of unit economy metrics (with statistical tests) based on Yandex Practicum SQL dump<p>
