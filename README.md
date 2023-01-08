@@ -2,8 +2,8 @@
 Hello, my name is Denis Ignatov and I enjoy working with data. I love application of statistics and math to provide insights for growth of projects and financial results, solving business issues. I am fan of innovations and believe in rational developement, dedicated my academic research to VC, blitz-scaling and questions of behavioral economics. 
 <p>Invested myself in different projects and have a broad view on Russian economy and business: have experience of working at the Government of Moscow where I reworked areas for cyclists and pedestrians, at the largest Russian oil company where I worked on price forecasting tool, helped stabilizing a small industrial business (80 employees), assisted a scientist with pushing startup from paper to a real business.<p>
 
-##Dashboard for CF analysis
-https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
+## Dashboard for CF analysis
+<p>https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link<p>
   
 ## Financial model folder includes:
 <p>- Financial model that I have reworked for industrial project<p>
