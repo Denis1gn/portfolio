@@ -11,7 +11,7 @@ Hello, my name is Denis Ignatov and I enjoy working with data. I love applicatio
 <p>- Master's thesis which covers unprofitable unicorn companies growth and influence of hype on their stocks performance after IPO. With usage of event study, multiple linear regression and statistical tests(brief explanation in English in README, presentation + text in Russian, data)<p>
   
 ## SQL & Python folder includes:
-<p>- Cohort analysis of unit economy metrics (with statistical tests) based on Yandex Practicum SQL dump<p>
+<p>- Cohort analysis of unit economy metrics (with statistical tests)<p>
 <p>- Time-series forecasting | anomaly detection & fixing outliers (WIP) <p>
 <p>- Customer segmentation using k-means cluster analysis <p>
 <p>- Multiple linear regression for Unicorn companies underpricing factors<p>
