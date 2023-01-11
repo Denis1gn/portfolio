@@ -21,7 +21,7 @@ Hello, my name is Denis Ignatov and I enjoy working with data. I love applicatio
 <p>- MOEX API connection for stocks analysis<p>
 <p>- QIWI product analyst SQL test <p>
 <p>- CRT&CR calculation <p>
-<p>- Product analysis funne<p>
+<p>- Product analysis funnel<p>
 
 
 
