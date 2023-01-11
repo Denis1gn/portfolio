@@ -3,7 +3,7 @@
 ## Data used for research:
 <p> Yahoo Finance for stocks historical prices <p>
 <p> U.S. Securities and Exchange Commission for IPO prospectus <p>
-<p> Crunchbase for information on media coverage <p>
+<p> Crunchbase for the list of unicorn companies and information on media coverage <p>
 
 ## Brief description:
 <p>- Unicorn companies are innovative companies that had reached valuation of $1b from Venture Capital funds before gaining such valuation on the market: Uber, Facebook etc<p>
