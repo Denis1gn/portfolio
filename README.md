@@ -4,8 +4,6 @@ Hello, my name is Denis Ignatov and I enjoy working with data. I love applicatio
 ## Tableau dashboards
 <p>-Cash flow analysis
 <p>https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link<p>
-<p>-Cohort user activity
-<p>https://public.tableau.com/views/Cohort_user_activity/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link<p>
   
 ## Financial model folder includes:
 <p>- Three statements financial model<p>
