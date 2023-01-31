@@ -1,5 +1,5 @@
 ## Portfolio
-Hello, my name is Denis Ignatov and I enjoy working with data. I love application of statistics and math to provide insights for growth of projects and financial results, solving business issues. I am fan of innovations and believe in rational developement, dedicated my academic research to VC, blitz-scaling and questions of behavioral economics. 
+Hello, my name is Denis Ignatov and I enjoy working with data and finances. I love application of statistics and math to provide insights for growth of projects and financial results, solving business issues. I am fan of innovations and believe in rational developement, dedicated my academic research to VC, blitz-scaling and questions of behavioral economics. 
 
 ## Tableau dashboards
 <p>-Cash flow analysis
