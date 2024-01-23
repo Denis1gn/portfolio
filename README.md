@@ -1,5 +1,22 @@
-## Portfolio
-Hello, my name is Denis Ignatov and I enjoy working with data and finances. I love application of statistics and math to provide insights for growth of projects and financial results, solving business issues. I am fan of innovations and believe in rational developement, dedicated my academic research to VC, blitz-scaling and questions of behavioral economics. 
+<div id="header" align="center">
+    <h1>Привет! Меня зовут Денис Игнатов</h1>
+    <h3>Инвестиционный аналитик | Data Science</h3>
+</div>
+
+## Образование и курсы:
+- Магистратура Экономического факультета МГУ им. Ломоносова (Финансовый аналитик)
+- Бакалавриат Финансового Университета при Правительстве РФ (Международные экономические отношения)
+- Yandex Practicum специалист Data Science плюс
+- Yandex Practicum SQL для аналитиков
+- 
+
+## Примеры проектов в области финансов
+| Проект        |Тэги           |Ссылка         |
+| ------------- | ------------- | ------------- |
+| Финансовая модель с тремя формами отчетности  | '#Оценка компаний'  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |  
+| Content Cell  | Content Cell  | Content Cell  |
 
 ## Tableau dashboards
 <p>-Cash flow analysis
@@ -23,6 +40,9 @@ Hello, my name is Denis Ignatov and I enjoy working with data and finances. I lo
 
 
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
   
   
