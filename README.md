@@ -10,10 +10,11 @@
 - SQL для Аналитиков данных от Yandex Practicum 
 
 
-## Примеры проектов в области финансов
+
+## Проекты из сферы финансов
 | Проект        |Тэги           |
 | ------------- | ------------- | 
-| Финансовая модель с тремя формами отчетности  | '#Оценка компаний'  | 
+| [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Financial%20model) | '#Оценка компаний'  | 
 | Content Cell  | Content Cell  | 
 | Content Cell  | Content Cell  |   
 | Content Cell  | Content Cell  | 
