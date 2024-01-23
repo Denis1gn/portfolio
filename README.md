@@ -17,17 +17,7 @@
 | [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Financial%20model) | '#Оценка компаний'  | 
 | [Cash-flow дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | Content Cell  | 
 | [Исследование влияния хайпа на оценку компаний единорогов после IPO](https://github.com/Denis1gn/portfolio/tree/main/Researches%20and%20presentations)  | Content Cell  |   
-| Content Cell  | Content Cell  | 
 
-## Tableau dashboards
-<p>-Cash flow analysis
-<p>https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link<p>
-  
-## Financial model folder includes:
-<p>- Three statements financial model<p>
-  
-## Researches and presentations folder includes:
-<p>- Master's thesis which covers unprofitable unicorn companies growth and influence of hype on underpricing and stocks performance after IPO. With usage of event study, multiple linear regression and statistical tests(README contains brief explanation in English, presentation + text in Russian, data)<p>
   
 ## SQL & Python folder includes:
 <p>- Cohort analysis of unit economy metrics (with statistical tests)<p>
