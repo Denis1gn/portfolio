@@ -11,11 +11,11 @@
 
 
 
-## Проекты из сферы финансов
+## Проекты по тематике финансов
 | Проект        |Тэги           |
 | ------------- | ------------- | 
 | [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Financial%20model) | '#Оценка компаний'  | 
-| Content Cell  | Content Cell  | 
+| [Cash-flow дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | Content Cell  | 
 | Content Cell  | Content Cell  |   
 | Content Cell  | Content Cell  | 
 
