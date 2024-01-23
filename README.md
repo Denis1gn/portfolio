@@ -11,12 +11,12 @@
 
 
 ## Примеры проектов в области финансов
-| Проект        |Тэги           |Ссылка         |
-| ------------- | ------------- | ------------- |
-| Финансовая модель с тремя формами отчетности  | '#Оценка компаний'  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |  
-| Content Cell  | Content Cell  | Content Cell  |
+| Проект        |Тэги           |
+| ------------- | ------------- | 
+| Финансовая модель с тремя формами отчетности  | '#Оценка компаний'  | 
+| Content Cell  | Content Cell  | 
+| Content Cell  | Content Cell  |   
+| Content Cell  | Content Cell  | 
 
 ## Tableau dashboards
 <p>-Cash flow analysis
