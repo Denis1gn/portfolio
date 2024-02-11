@@ -12,11 +12,11 @@
 
 
 ## Проекты по тематике финансов
-| Проект        |Тэги           |
-| ------------- | ------------- | 
-| [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Financial%20model) | :large_green_circle: Три формы отчетности   | 
-| [Cash-flow дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | Content Cell  | 
-| [Исследование влияния хайпа на оценку компаний единорогов после IPO](https://github.com/Denis1gn/portfolio/tree/main/Researches%20and%20presentations)  | Content Cell  |   
+| Проект        |Тэги / описание          |
+| ------------- | ----------------------- | 
+| [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Financial%20model) | `Оценка стоимости компаний`   | 
+| [Cash-flow дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | `Управленческий учет`  | 
+| [Исследование влияния хайпа на оценку компаний единорогов после IPO](https://github.com/Denis1gn/portfolio/tree/main/Researches%20and%20presentations)  | `Линейная регрессия`, `event study` |   
 
   
 ## SQL & Python folder includes:
