@@ -11,6 +11,8 @@
 - SQL для Аналитиков данных от Yandex Practicum 
 
 
+
+
 ## Проекты по тематике финансов
 | Проект        |Тэги / описание          |
 | ------------- | ----------------------- | 
@@ -26,15 +28,7 @@
 | [Cash-flow дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | `Управленческий учет`  | 
 | [Исследование влияния хайпа на оценку компаний единорогов после IPO](https://github.com/Denis1gn/portfolio/tree/main/Researches%20and%20presentations)  | `Линейная регрессия`, `event study` |  
   
-## SQL & Python folder includes:
-<p>- Cohort analysis of unit economy metrics (with statistical tests)<p>
-<p>- Time-series forecasting | anomaly detection & fixing outliers (WIP) <p>
-<p>- Customer segmentation using k-means cluster analysis <p>
-<p>- Multiple linear regression for Unicorn companies underpricing factors<p>
-<p>- MOEX API connection for stocks analysis<p>
-<p>- QIWI product analyst SQL test <p>
-<p>- CRT&CR calculation <p>
-<p>- Product analysis funnel<p>
+
 
 
 
