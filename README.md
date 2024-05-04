@@ -15,7 +15,8 @@
 | Проект        |Тэги / описание          |
 | ------------- | ----------------------- | 
 | [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Financial%20model) | `Оценка стоимости компаний`   | 
-| [Cash-flow дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | `Управленческий учет`  | 
+| [Cash-flow дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | <span style="color: white; background-color: #3776AB; padding: 3px 8px; border-radius: 5px;">`Управленческий учет`</span>
+  | 
 | [Исследование влияния хайпа на оценку компаний единорогов после IPO](https://github.com/Denis1gn/portfolio/tree/main/Researches%20and%20presentations)  | `Линейная регрессия`, `event study` |   
 
 
