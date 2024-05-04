@@ -19,7 +19,7 @@
 | [Исследование влияния хайпа на оценку компаний единорогов после IPO](https://github.com/Denis1gn/portfolio/tree/main/Researches%20and%20presentations)  | `Линейная регрессия`, `Событийный анализ`, `Проверка гипотез`, `Презентация` |   
 
 
-## Проекты DS / Анализ данных
+## Проекты Программирование / DS / Анализ данных
 | Проект        |Тэги / описание          |
 | ------------- | ----------------------- | 
 | | <span style="color: white; background-color: #3776AB; padding: 3px 8px; border-radius: 5px;">Python</span>
