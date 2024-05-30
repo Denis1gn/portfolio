@@ -23,9 +23,7 @@
 | Проект        |Тэги / описание          |
 | ------------- | ----------------------- | 
 |[Модель классификации стартапов](https://github.com/Denis1gn/portfolio/tree/main/Startup%20classification) | <span style="color: white; background-color: #3776AB; padding: 3px 8px; border-radius: 5px;">Python</span>
-   | 
-| | `Управленческий учет`  | 
-| | `Линейная регрессия`, `event study` |  
+| Модель прогнозирующая закрытие стартапа на основании данных о других стратапах | 
   
 
 
