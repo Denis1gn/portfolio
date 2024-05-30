@@ -12,11 +12,11 @@
 
 
 ## Проекты по тематике финансов
-| Проект        |Тэги / описание          |
-| ------------- | ----------------------- | 
-| [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Financial%20model) | `Оценка стоимости компаний`   | 
-| [Cash-flow дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | `BI`, `Управленческий учет` | 
-| [Исследование влияния хайпа на оценку компаний единорогов после IPO](https://github.com/Denis1gn/portfolio/tree/main/Researches%20and%20presentations)  | `Линейная регрессия`, `Событийный анализ`, `Проверка гипотез`, `Презентация` |   
+| Проект        |Тэги                     |Описание                 |
+| ------------- | -----------------------]| -----------------------]| 
+| [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Financial%20model) | `Оценка стоимости компаний`   | Расширенная модель с тремя формами отчетности для оценки компаний  |
+| [Cash-flow дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | `BI`, `Управленческий учет` | Визуализированный отчет о движении денежных средств для управленческого учета  |
+| [Исследование влияния хайпа на оценку компаний единорогов после IPO](https://github.com/Denis1gn/portfolio/tree/main/Researches%20and%20presentations)  | `Линейная регрессия`, `Событийный анализ`, `Проверка гипотез`, `Презентация` | В рамках диссертации применяются математические и статистические методы анализа выхода технологических компаний на рынок, в работе исследуется IPO и рынок VC. ReadMe на английском, презентация и текст на русском языке.  |
 
 
 ## Проекты Программирование / DS / Анализ данных
