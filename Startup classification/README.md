@@ -64,10 +64,10 @@
 
 __Наилучшая модель:__ 
 
-- **Сравнивались модели RandomForrestClassifier, DecissionTreeClassifier, LogisticRegression, KNeighborsClassifier, CatBoost
-- **Лучшая модель и её параметры: CatBoostClassifier
-- **Метрика лучшей модели на кросс-валидации: 0.7049011433727956
-- **lifetime наиболее важный признак
+- Сравнивались модели RandomForrestClassifier, DecissionTreeClassifier, LogisticRegression, KNeighborsClassifier, CatBoost
+- Лучшая модель и её параметры: CatBoostClassifier
+- Метрика лучшей модели на кросс-валидации: 0.7049011433727956
+- lifetime наиболее важный признак
 
 ## Предложения по улучшению модели и применению:
 
