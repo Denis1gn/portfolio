@@ -62,7 +62,7 @@
 - Мультиколлинеарность отсутствует. Наибольшая корреляция между раундами финансирования и объемом финансирования.
 - В модели используются следующие признаки: 'funding_stage', 'funding_total_usd', 'country_code', 'funding_rounds', 'lifetime'.
 
-__Наилучшая модель:__ 
+### Лучшая модель:
 
 - Сравнивались модели RandomForrestClassifier, DecissionTreeClassifier, LogisticRegression, KNeighborsClassifier, CatBoost
 - Лучшая модель и её параметры: CatBoostClassifier
