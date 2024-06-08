@@ -21,7 +21,8 @@
 ## Проекты Data Science
 | Проект        |Тэги                     |Описание                 |
 | ------------- | ----------------------- | ----------------------- | 
-|[Модель классификации стартапов](https://github.com/Denis1gn/portfolio/tree/main/Startup%20classification) | `Scikit-learn`, `CatBoost`, `Pipeline`, `RandomForrest`, `LogisticRegression`, `Классификация`  | Модель прогнозирующая закрытие стартапа |[Модель регрессии цен]([https://github.com/Denis1gn/portfolio/tree/main/Startup%20classification](https://github.com/Denis1gn/portfolio/tree/main/Price%20regression)) | `Scikit-learn`, `CatBoost`, `Pipeline`, `RandomForrest`, `LogisticRegression`, `Классификация`  | Модель прогнозирующая закрытие стартапа |
+|[Модель классификации стартапов](https://github.com/Denis1gn/portfolio/tree/main/Startup%20classification) | `Scikit-learn`, `CatBoost`, `Pipeline`, `RandomForrest`, `LogisticRegression`, `Классификация`  | Модель прогнозирующая закрытие стартапа |
+|[Модель регрессии цен]([https://github.com/Denis1gn/portfolio/tree/main/Startup%20classification](https://github.com/Denis1gn/portfolio/tree/main/Price%20regression)) | `Scikit-learn`, `CatBoost`, `Pipeline`, `RandomForrest`, `LogisticRegression`, `Классификация`  | Модель прогнозирующая закрытие стартапа |
 
   
 
