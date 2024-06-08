@@ -22,7 +22,7 @@
 ## Проекты Data Science
 | Проект        |Тэги / описание          |Описание                 |
 | ------------- | ----------------------- | ----------------------- | 
-|[Модель классификации стартапов](https://github.com/Denis1gn/portfolio/tree/main/Startup%20classification) | `Scikit-learn`, `CatBoost`, `Pipeline`, `RandomForrest`, `LogisticRegression`, `Классификация`  | Модель прогнозирующая закрытие стартапа на основании данных о других стратапах |
+|[Модель классификации стартапов](https://github.com/Denis1gn/portfolio/tree/main/Startup%20classification) | `Scikit-learn`, `CatBoost`, `Pipeline`, `RandomForrest`, `LogisticRegression`, `Классификация`  | Модель прогнозирующая закрытие стартапа |
 
   
 
