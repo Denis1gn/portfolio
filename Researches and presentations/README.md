@@ -1,56 +1,57 @@
-## Influence of hype on unicorn companies IPO performance and valuation 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/1BU.png)
-## Data used for research:
-<p> Yahoo Finance for stocks historical prices <p>
-<p> U.S. Securities and Exchange Commission for IPO prospectus <p>
-<p> Crunchbase for the list of unicorn companies and information on media coverage <p>
+# Влияние хайпа на IPO и оценку компаний-единорогов
 
-## Brief description:
-<p>- Unicorn companies are innovative companies that had reached valuation of $1b from Venture Capital funds before gaining such valuation on the market: Uber, Facebook etc<p>
-<p>- Unicorn companies are created with the strategy of blitz-scaling, which focuses on growth over efficency<p>
-<p>- Quantity of such companies accelerated during the last decade because of VC funds eager to catch own unicorn in portfolio as well as in the result of rapid small investments among large number of tech startups<p>
-  
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/visuals/1.png)
-  
-<p>- Money losing unicorn companies raise more funding during IPO today than profitable companies from Dotcom era used to<p>
-  
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/Lossprofit.png)
+Этот проект исследует влияние хайпа на показатели IPO и оценку компаний-единорогов. 
 
-<p> For my research on Unicorns I have investigated 75 companies  who have listed on NASDAQ and NYSE: IPO prospectus, stocks historical data, Crunchbase information 
+![Визуализация 1](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/1BU.png)
 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/observations.png)
+## Данные, использованные для исследования:
+- Yahoo Finance для исторических цен акций
+- Комиссия по ценным бумагам и биржам США для проспектов IPO
+- Crunchbase для списка компаний-единорогов и информации о медиа-освещении
 
-## Hype: positive and negative influence
+## Краткое описание:
+- **Компании-единороги** — это инновационные компании, достигшие оценки в $1 миллиард от венчурных фондов до достижения такой оценки на рынке (например, Uber, Facebook и т.д.).
+- Компании-единороги создаются со стратегией blitz-scaling, которая фокусируется на росте, а не на эффективности.
+- Количество таких компаний резко возросло за последнее десятилетие из-за стремления венчурных фондов получить "единорога" в своем портфеле, а также вследствие множества небольших инвестиций в технологические стартапы.
 
-<p>- Hype affects valuation and can be measured on the first trading day by looking at underpricing and in the first months after IPO by looking at stock performance <p>
-  
-<p>- Underpricing is a situation when a company undervalues own stocks before IPO, meanwhile prices skyrocket on the first traiding day. It is good for investors but it is bad for Unicorns since they lose money they could have received if proposed higher initial price. Underpricing can be measured with MAIR - Market Adjusted Initial Return. 
+![Визуализация 2](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/visuals/1.png)
 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/MAIRU.png)
+- Компании-единороги, убыточные на момент IPO, сегодня привлекают больше средств, чем прибыльные компании во время эпохи Dotcom.
 
+![Визуализация 3](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/visuals/2.png)
 
-<p>-There are factors that increase or decrease underpricing for Unicorn companies, which I have uncovered using Multiple Linear Regression: <p>
+- Для исследования я изучил 75 компаний, которые вышли на NASDAQ и NYSE: проспекты IPO, исторические данные акций, информацию с Crunchbase.
 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/regressionu.png)
+![Визуализация 4](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/visuals/3.png)
 
-<p>- Using Mann-Whitney test I also found out that software companies are more vulnerable to underpricing<p>
+## Хайп: положительное и отрицательное влияние
 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/software.png)
+- Хайп влияет на оценку и может быть измерен в первый день торгов, анализируя недооценку, а также в первые месяцы после IPO, анализируя результаты акций.
 
-<p>- Using event study method, we can measure hype after IPO by looking at abnormal returns. This method uses mathematical/financial appproach to forecasting stock prices, then forecasting results are compared to actual stocks returns. I used CAAR (Cumulative Average Abnormal Returns) for grouped Unicorns depending on the amount of news articles covered them before IPO date. On all ocasions t-statistic demonstrates difference to 0<p>
+- **Недооценка** — это ситуация, когда компания занижает стоимость своих акций перед IPO, а цены резко взлетают в первый день торгов. Это выгодно для инвесторов, но плохо для единорогов, так как они теряют деньги, которые могли бы получить при более высокой начальной цене. Недооценка может быть измерена с помощью MAIR (Market Adjusted Initial Return).
 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/CAAR.png)
+![Визуализация 5](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/visuals/4.png)
 
-<p>- As we can see, on the average hype reaches peak on the 3rd month. It is worth mentioning that too much hype also decreases abnormal returns as hype can be both negative and positive. I have compared distribution of CAR (Cumulative abnormal returns) between groups during the peak<p>
-  
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/distributions.png)
-  
-<p>- Using Kruskal–Wallis statistical test, I have demonstrated that companies with low hype had different CAR distribution compared to hyped companies<p>
-  
-<p>- In result as we can see, hype can be both good and bad for unicorn companies. As they lose money because of underpricing, their stocks performance is also guarded by the hype. <p>
+- Существует ряд факторов, увеличивающих или уменьшающих недооценку для компаний-единорогов, которые я выявил с помощью множественной линейной регрессии:
 
+![Визуализация 6](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/visuals/5.png)
 
+- С помощью теста Манна-Уитни я также выяснил, что компании, занимающиеся разработкой программного обеспечения, более подвержены недооценке.
 
+![Визуализация 7](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/visuals/6.png)
 
-  
+- Методом исследования событий можно измерить хайп после IPO, анализируя аномальные доходности. Этот метод использует математический/финансовый подход к прогнозированию цен акций, после чего результаты прогнозов сравниваются с фактическими доходностями акций. Я использовал CAAR (Cumulative Average Abnormal Returns) для группировки компаний-единорогов в зависимости от количества новостных статей о них до даты IPO. Во всех случаях t-статистика демонстрирует отклонение от нуля.
 
+![Визуализация 8](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/visuals/7.png)
+
+- Как видно, в среднем хайп достигает пика на третий месяц. Стоит отметить, что чрезмерный хайп также снижает аномальные доходности, так как хайп может быть как положительным, так и отрицательным. Я сравнил распределение CAR (Cumulative Abnormal Returns) между группами в период пика.
+
+![Визуализация 9](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/visuals/8.png)
+
+- С помощью статистического теста Краскела–Уоллиса я продемонстрировал, что компании с низким уровнем хайпа имели иное распределение CAR по сравнению с хайповыми компаниями.
+
+- В результате видно, что хайп может быть как полезным, так и вредным для компаний-единорогов. Хотя они теряют деньги из-за недооценки, их акции также получают поддержку благодаря хайпу.
+
+## Заключение
+
+Этот проект демонстрирует, как хайп влияет на IPO и последующую оценку компаний-единорогов, основываясь на анализе данных и моделировании финансовых показателей.
