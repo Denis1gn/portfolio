@@ -1,8 +1,9 @@
 # Влияние хайпа на IPO и оценку компаний-единорогов
 
-Этот проект исследует влияние хайпа на показатели IPO и оценку компаний-единорогов. 
+___
 
 ![Визуализация 1](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/1BU.png)
+___
 
 ## Данные, использованные для исследования:
 - Yahoo Finance для исторических цен акций
