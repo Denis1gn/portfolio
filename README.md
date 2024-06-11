@@ -30,8 +30,10 @@
 | [Модель сопоставления товаров](https://github.com/Denis1gn/portfolio/tree/main/Matching) | `Сопоставление`, `FAISS`, `HNSW`| Модель сопоставляющая товары под метрику accuracy@5|
 | [Модель регрессии в среде PySpark](https://github.com/Denis1gn/portfolio/tree/main/PySpark_regression) | `PySpark`, `LinearRegression`| Модель прогноза цен на жилье в условиях большого объема данных|
 
-  
-
+## SQL & Python
+| Проект        | Тэги                                                             | Описание                 |
+| ------------- | ---------------------------------------------------------------- | ------------------------ | 
+| [Модель классификации стартапов](https://github.com/Denis1gn/portfolio/tree/main/Startup%20classification) | `Scikit-learn`, `CatBoost`, `Pipeline`, `RandomForrest`, `LogisticRegression`, `Классификация`  | Модель прогнозирующая закрытие стартапа |
 
 
   
