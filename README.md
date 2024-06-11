@@ -33,7 +33,7 @@
 ## SQL & Python
 | Проект        | Тэги                                                             | Описание                 |
 | ------------- | ---------------------------------------------------------------- | ------------------------ | 
-| [Модель классификации стартапов](https://github.com/Denis1gn/portfolio/tree/main/Startup%20classification) | `Scikit-learn`, `CatBoost`, `Pipeline`, `RandomForrest`, `LogisticRegression`, `Классификация`  | Модель прогнозирующая закрытие стартапа |
+| [Набор проектов SQL & метрики юнит экономики](https://github.com/Denis1gn/portfolio/tree/main/SQL%3APython%20projects) | `SQL Alchemy`, `Юнит-экономика`, `Когортный анализ`  | Модель прогнозирующая закрытие стартапа |
 
 
   
