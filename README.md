@@ -19,7 +19,7 @@
 | Проект        | Тэги                                                             | Описание                 |
 | ------------- | ---------------------------------------------------------------- | ------------------------ | 
 | [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Financial%20model) | `Оценка стоимости компаний`, `Финансовая модель`, `DCF`, `WACC` | Эталонная финансовая модель с тремя формами отчетности  |
-| [ОДДС дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) | `BI`, `Управленческий учет`, `Отчёт о движении денежных средств`, `Tableu`  | Визуализированный отчет о движении денежных средств для управленческого учета. |
+| [ОДДС дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) | `BI`, `Управленческий учет`, `Отчёт о движении денежных средств`, `Tableu`  | Визуализированный отчет о движении денежных средств для управленческого учета. |
 | [Event study на рынке акций](https://github.com/Denis1gn/portfolio/tree/main/Stocks_project) | `API MOEX`, `Акции`, `Прогнозирование`, `Event study`, `Расчет бета коэффициента`, `Расчет альфа коэффициента`  | Подключение к API Mосковской биржи, выгрузка акций, индекса, безрисковой доходности, расчет альфа и бета коэффициента, применение событийного анализа |
 
 ## Проекты Data Science
