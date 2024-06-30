@@ -15,7 +15,7 @@
 
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/CBR_parsing/key_inflation_plot.png)
 
-![alt text](https://github.com/Denis1gn/portfolio/edit/main/CBR_parsing/README.md#:~:text=key_inflation_plot.png-,rates_plot,-.png)
+![alt text](https://github.com/Denis1gn/portfolio/blob/main/CBR_parsing/rates_plot.png)
 
 <details>
   <summary>Описание функций проекта</summary>
