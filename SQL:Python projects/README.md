@@ -1,5 +1,6 @@
 ## Репозитарий проектов SQL:
 
+Проекты разминочные для визуализации когортного и кластерного анализа
 
 ## Когортный анализ retention rate
 ![alt text](https://github.com/Denis1gn/portfolio/blob/main/SQL:Python%20projects/project%20results%20visualization/cohortretention.png)
