@@ -11,10 +11,11 @@
 ### Применение проекта:
 [Статистический бюллетень Банка России](https://www.cbr.ru/statistics/bbs/)
 
-Проект можно использовать для автоматизации выгрузки необходимых данных из бюллетеня.
+Проект можно использовать для автоматизации выгрузки необходимых данных из бюллетеня и базы ЦБ РФ.
 
+![alt text](https://github.com/Denis1gn/portfolio/edit/main/CBR_parsing/README.md#:~:text=README.md-,key_inflation_plot,-.png)
 
-
+![alt text](https://github.com/Denis1gn/portfolio/edit/main/CBR_parsing/README.md#:~:text=key_inflation_plot.png-,rates_plot,-.png)
 
 <details>
   <summary>Описание функций проекта</summary>
