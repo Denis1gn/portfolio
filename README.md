@@ -10,6 +10,7 @@
 - SQL для Аналитиков данных от Yandex Practicum
 - Языковые стажировки в MLS International college (Великобритания) & LaVerne University (США)
 
+P.S. В настоящий момент идет доработка портфолио 
 ____
 
 
