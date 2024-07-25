@@ -41,7 +41,7 @@ ____
 | [Модель прогноза цен](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/Price%20regression) | `Scikit-learn`, `LightGBM`, `Pipeline`, `DecisionTreeRegressor`, `LinearRegression`, `Регрессия`, `Оптимизация памяти`   | Модель прогнозирующая цены автомобилей |
 | [Модель сопоставления товаров](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/Matching) | `Сопоставление`, `FAISS`, `HNSW`| Модель сопоставляющая товары под метрику accuracy@5|
 | [Модель регрессии в среде PySpark](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/PySpark_regression) | `PySpark`, `LinearRegression`| Модель прогноза цен на жилье в условиях большого объема данных|
-| [Набор проектов SQL & метрики юнит экономики](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/SQL%3APython%20projects) | `SQL Alchemy`, `Юнит-экономика`, `Когортный анализ`, `Кластерный анализ`  | Тренировачные проект по развертыванию БД PostgresSQL и работы через Python. Расчеты метрик юнит-экономики в когортах, кластерный анализ |
+| [Набор проектов SQL & метрики юнит экономики](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/SQL%3APython%20projects) | `SQL Alchemy`, `Юнит-экономика`, `Когортный анализ`, `Кластерный анализ`  | Проект по развертыванию БД PostgresSQL и работы через Python. Расчеты метрик юнит-экономики в когортах, кластерный анализ |
 
 
 
