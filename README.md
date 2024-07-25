@@ -29,7 +29,7 @@ ____
 | [ОДДС дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) | `BI`, `Управленческий учет`, `Отчёт о движении денежных средств`, `Tableu`  | Визуализированный отчет о движении денежных средств для управленческого учета. |
 | [Event study на рынке акций](https://github.com/Denis1gn/portfolio/tree/main/Finance/Stocks_project) | `API MOEX`, `Акции`, `Прогнозирование`, `Event study`, `Расчет бета коэффициента`, `Расчет альфа коэффициента`  | Применение методолгии Event Study для изучения влияния различных событий на стоимость акций.  |
 | [Monte-Carlo симуляция портфеля акций](https://github.com/Denis1gn/portfolio/tree/main/Finance/Stocks_MC) | `API MOEX`, `Акции`, `Прогнозирование`, `Monte-Carlo simulation` | Выгрузка данных с помощью API для симуляции портфеля акций |
-| [Анализ Value At Risk](https://github.com/Denis1gn/portfolio/tree/main/Finance/Stocks_VAR) | `API MOEX`, `Акции`, `Моделирование риска`, `Value at Risk`  | Подключение к API Mосковской биржи, выгрузка акций, расчет Value at Risk |
+| [Анализ Value At Risk](https://github.com/Denis1gn/portfolio/tree/main/Finance/Stocks_VAR) | `API MOEX`, `Акции`, `Моделирование риска`, `Value at Risk`  | Рассчет границ потерь стоимости акций компании с точностью в 95% |
 
 ____
 
