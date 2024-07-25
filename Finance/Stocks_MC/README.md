@@ -18,7 +18,7 @@
   - Графики прогнозируемой стоимости портфеля.
 
 Пример симуляции портфеля с помощью метода Монте-Карло
-![Визуализация](https://github.com/Denis1gn/portfolio/blob/main/Stocks_MC/Visuals_MC.png)
+![Визуализация](https://github.com/Denis1gn/portfolio/blob/main/Finance/Stocks_MC/Visuals_MC.png)
 
 ### Тикеры
 
