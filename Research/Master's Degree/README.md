@@ -2,7 +2,7 @@
 
 ___
 
-![Визуализация 1](https://github.com/Denis1gn/portfolio/blob/main/Researches%20and%20presentations/unicorns%20visuals/1BU.png)
+![Визуализация 1](https://github.com/Denis1gn/portfolio/blob/main/Research/Master's%20Degree/unicorns%20visuals/1BU.png)
 ___
 
 ## Данные, использованные для исследования:
