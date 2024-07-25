@@ -21,7 +21,7 @@
 
 На примере отражен дивидендный гэп Сбера в июле 2024 года
 
-![Визуализация](https://github.com/Denis1gn/portfolio/blob/main/Stocks_project/ES_Visuals.png)
+![Визуализация](https://github.com/Denis1gn/portfolio/blob/main/Finance/Stocks_project/ES_Visuals.png)
 
 ### Тикеры
 
