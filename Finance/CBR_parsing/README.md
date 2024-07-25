@@ -13,9 +13,9 @@
 
 Проект можно использовать для автоматизации выгрузки необходимых данных из бюллетеня и базы ЦБ РФ.
 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/CBR_parsing/key_inflation_plot.png)
+![alt text](https://github.com/Denis1gn/portfolio/blob/main/Finance/CBR_parsing/key_inflation_plot.png)
 
-![alt text](https://github.com/Denis1gn/portfolio/blob/main/CBR_parsing/rates_plot.png)
+![alt text](https://github.com/Denis1gn/portfolio/blob/main/Finance/CBR_parsing/rates_plot.png)
 
 <details>
   <summary>Описание функций проекта</summary>
