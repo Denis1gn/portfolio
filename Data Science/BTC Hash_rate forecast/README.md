@@ -14,7 +14,7 @@ __Хешрейт (или хэшрейт) сети Биткойн__ — это м
 - LightGBM
 - XGBoost
 
-По итогу лучшая модель - Catboost, RMSE на тестовых данных: 28952504.750075497
+По итогу лучшая модель - Catboost, RMSE на тестовых данных: 289,525,04.75
 
 <img width="592" alt="image" src="https://github.com/user-attachments/assets/ad851464-6c27-4295-9130-87b238c7f073">
 
