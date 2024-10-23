@@ -37,7 +37,7 @@ ____
 ## Проекты Data Science
 | Проект        | Тэги                                                             | Описание                 |
 | ------------- | ---------------------------------------------------------------- | ------------------------ | 
-| [Модель прогнозирования временных рядов (Хэшрейт сети Bitcoin)](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/BTC%20Hash_rate%20forecast) | `LightGBM`, `CatBoost`, `XGBoost`, `Прогнозирование временных рядов`  | Модель прогнозирования временных рядов. Прогноз хэшрейта сети Bitcoin для разработки прогноза под финансовую модель майнинговой фермы.  |
+| [Модель прогнозирования временных рядов (Хэшрейт сети Bitcoin)](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/BTC%20Hash_rate%20forecast) | `LightGBM`, `CatBoost`, `XGBoost`, `Прогнозирование временных рядов`  | Модель прогнозирования временных рядов. Модель для разработки прогноза производительности сети для финансовой модели майнинговой фермы.  |
 | [Модель классификации стартапов](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/Startup%20classification) | `Scikit-learn`, `CatBoost`, `Pipeline`, `RandomForrest`, `LogisticRegression`, `Классификация`  | Модель прогнозирующая закрытие стартапа |
 | [Модель прогноза цен](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/Price%20regression) | `Scikit-learn`, `LightGBM`, `Pipeline`, `DecisionTreeRegressor`, `LinearRegression`, `Регрессия`, `Оптимизация памяти`   | Модель прогнозирующая цены автомобилей |
 | [Модель сопоставления товаров](https://github.com/Denis1gn/portfolio/tree/main/Data%20Science/Matching) | `Сопоставление`, `FAISS`, `HNSW`| Модель сопоставляющая товары под метрику accuracy@5|
