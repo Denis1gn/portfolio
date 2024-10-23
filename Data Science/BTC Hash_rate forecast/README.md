@@ -18,4 +18,8 @@ __Хешрейт (или хэшрейт) сети Биткойн__ — это м
 
 <img width="592" alt="image" src="https://github.com/user-attachments/assets/ad851464-6c27-4295-9130-87b238c7f073">
 
+По итогам применения модели был разработан прогноз на период до следующего халвинга
+
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/40c89a13-d60f-4cc3-aa3d-5b5c39f57004">
+
 
