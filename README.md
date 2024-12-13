@@ -30,7 +30,7 @@ ____
 | [ОДДС дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) | `BI`, `Управленческий учет`, `Отчёт о движении денежных средств`, `Tableu`  | Визуализированный отчет о движении денежных средств для управленческого учета. |
 | [Event study на рынке акций](https://github.com/Denis1gn/portfolio/tree/main/Finance/Stocks_project) | `API MOEX`, `Акции`, `Прогнозирование`, `Event study`, `Расчет бета коэффициента`, `Расчет альфа коэффициента`  | Применение методолгии Event Study для изучения влияния различных событий на стоимость акций.  |
 | [Monte-Carlo симуляция портфеля акций](https://github.com/Denis1gn/portfolio/tree/main/Finance/Stocks_MC) | `API MOEX`, `Акции`, `Прогнозирование`, `Monte-Carlo simulation` | Выгрузка данных с помощью API для симуляции портфеля акций методом Монте-Карло |
-| [Анализ Value At Risk](https://github.com/Denis1gn/portfolio/tree/main/Finance/Stocks_VAR) | `API MOEX`, `Акции`, `Моделирование риска`, `Value at Risk`  | Рассчет границ потерь стоимости акций с точностью в 95% |
+| [Анализ Value At Risk](https://github.com/Denis1gn/portfolio/tree/main/Finance/Stocks_VAR) | `API MOEX`, `Акции`, `Моделирование риска`, `Value at Risk`  | Рассчет границ потерь стоимости акций с точностью в 95% (Value at Risk) |
 | [Модель Блэка-Шоулза для расчета цены опциона и "греков"](https://github.com/Denis1gn/portfolio/tree/main/Finance/Options_Black_Scholes) | `API MOEX`, `Акции`, `Опционы`, `Греки`  | Расчет стоимости опциона и его характеристик (греки) |
 
 ____
