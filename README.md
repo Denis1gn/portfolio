@@ -25,7 +25,7 @@ ____
 ## Проекты по тематике финансов
 | Проект        | Тэги                                                             | Описание                 |
 | ------------- | ---------------------------------------------------------------- | ------------------------ | 
-| [Анализ и оптимизация инвестиционного портфеля MOEX](https://github.com/Denis1gn/portfolio_app) | `Streamlit`, `Docker`, `Scipy`, `Plotly`  | Выгрузка исторических данных MOEX, анализ портфеля и оптимизация риска портфеля. |
+| [Анализ и оптимизация инвестиционного портфеля MOEX](https://github.com/Denis1gn/portfolio_app) | `Streamlit`, `Docker`, `Scipy`, `Plotly`, `API MOEX` | Выгрузка исторических данных MOEX, анализ портфеля и оптимизация риска портфеля. |
 | [Выгрузка информации с сайта ЦБ РФ и статистических бюллетеней](https://github.com/Denis1gn/portfolio/tree/main/Finance/CBR_parsing) | `BeautifulSoup`, `PyPDF2`, `tabula`  | Поиск и выгрузка информации о ставках и инфляции из базы данных ЦБ РФ, PDF файлов статистических бюллетеней ЦБ. |
 | [Финансовая модель с тремя формами отчетности](https://github.com/Denis1gn/portfolio/tree/main/Finance/Financial%20model) | `Оценка стоимости компаний`, `Финансовая модель`, `DCF`, `WACC` | Эталонная финансовая модель с тремя формами отчетности  |
 | [ОДДС дашборд в Tableu](https://public.tableau.com/views/Cash-flowdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) | `BI`, `Управленческий учет`, `Отчёт о движении денежных средств`, `Tableu`  | Визуализированный отчет о движении денежных средств для управленческого учета. |
